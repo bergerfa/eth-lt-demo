@@ -5,3 +5,7 @@ Heute habe ich meinen **tollen Vortrag** vorbereitet. Zunächst habe ich *auf Pa
 Nächstes Mal werde ich folgendes Tun:
 - [ ] Arbeitspapier sorgfältig lesen
 - [ ] Zusammenfassung dazu schreiben
+
+### 8.4.2024
+
+Heute hatte ich seit 08:00 Vorlesung auf dem Irchel und dann anschliessend Vorlesung im Zentrum. Danach bin ich zur ETH spaziert und habe diese Vorlesung besucht. Ich brauchte Hilfe um die fork zu erstellen und ebenfalls den richtigen URL link zu finden. Da ich nicht so viel Ahnung von IT habe. Aber mir wurde sehr viel geholfen und ich habe es anschliessend auch geschafft. Ich denke falls man das Programm versteht kann es sehr hilfreich sein.
